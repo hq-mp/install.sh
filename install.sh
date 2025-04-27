@@ -41,7 +41,7 @@ logo() {
     echo -e " ───│    $Green┌─┐┬ ┬┌┬┐┌─┐┌─┐┌─┐┬─┐┬┌─┐┌┬┐  ┬  ┬┌┬┐┌─┐$NC   │───"
     echo -e " ───│    $Green├─┤│ │ │ │ │└─┐│  ├┬┘│├─┘ │   │  │ │ ├┤ $NC   │───"
     echo -e " ───│    $Green┴ ┴└─┘ ┴ └─┘└─┘└─┘┴└─┴┴   ┴   ┴─┘┴ ┴ └─┘$NC   │───"
-    echo -e "    │    ${YELLOW}Copyright${FONT} (C)${GRAY}https://t.me/abuissac95$NC     │"
+    echo -e "    │    ${YELLOW}Copyright${FONT} (C)${GRAY}https://t.me/free_net_mrrc95$NC     │"
     echo -e "    └───────────────────────────────────────────────┘"
     echo -e "        "
 
