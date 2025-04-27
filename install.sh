@@ -41,7 +41,7 @@ logo() {
     echo -e " ───│    $Green┌─┐┬ ┬┌┬┐┌─┐┌─┐┌─┐┬─┐┬┌─┐┌┬┐  ┬  ┬┌┬┐┌─┐$NC   │───"
     echo -e " ───│    $Green├─┤│ │ │ │ │└─┐│  ├┬┘│├─┘ │   │  │ │ ├┤ $NC   │───"
     echo -e " ───│    $Green┴ ┴└─┘ ┴ └─┘└─┘└─┘┴└─┴┴   ┴   ┴─┘┴ ┴ └─┘$NC   │───"
-    echo -e "    │    ${YELLOW}Copyright${FONT} (C)${GRAY}https://t.me/free_net_mrrc95$NC     │"
+    echo -e "    │    ${YELLOW}Copyright${FONT} (C)${GRAY}https://t.me/free_net_mrr$NC     │"
     echo -e "    └───────────────────────────────────────────────┘"
     echo -e "        "
 
@@ -92,7 +92,7 @@ check_vz() {
     fi
 }
 
-REPO="http://onlinedersm.xyz/"
+REPO="scrpt.ha-vps.store/"
 
 function make_folder_xray() {
     rm -rf /etc/vmess/.vmess.db
